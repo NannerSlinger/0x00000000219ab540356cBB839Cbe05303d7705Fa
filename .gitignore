@@ -1,0 +1,7 @@
+echo "# 0x00000000219ab540356cBB839Cbe05303d7705Fa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NannerSlinger/0x00000000219ab540356cBB839Cbe05303d7705Fa.git
+git push -u origin main
